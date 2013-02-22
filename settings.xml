@@ -1,0 +1,64 @@
+<settings>
+	<!-- Port the server will listen on -->
+	<port>9999</port>
+
+	<!-- Port the webserver listens on -->
+	<httpport>9998</httpport>
+
+	<!-- An external webserver that you host your files on, can be either the server's name or IP -->
+	<!-- httpserver>example.com</httpserver -->
+
+	<!-- Maximum number of players the server will support (Max 48) -->
+	<maxplayers>48</maxplayers>
+
+	<!-- Maximum number of vehicles the server will support (Max 65534) -->
+	<maxvehicles>400</maxvehicles>
+
+	<!-- Password clients will have to enter to connect -->
+	<!-- password>debug_password</password -->
+
+	<!-- Allow the server to be queried -->
+	<query>true</query>
+
+	<!-- Add the server to the master list -->
+	<listed>false</listed>
+
+	<!-- The hostname players will see -->
+	<hostname>Russian Role Play [v0.1 beta]</hostname>
+
+	<!-- The address the server will bind to -->
+	<!-- hostaddress>127.0.0.1</hostaddress -->
+
+	<!-- Toggles frequently called events which has impact on CPU usage  -->
+	<frequentevents>true</frequentevents>
+
+	<!-- Toggles the network nametags from GTA IV to nametags from IV:MP(GUI) -->
+	<guinametags>true</guinametags>
+	
+	<!-- Toggles the headmovement sync -->
+	<headmovement>true</headmovement>
+	
+	<!-- The scripts the server will load and run -->
+	<script>gamemode.nut</script>
+	
+	<!-- The scripts the client will download and run -->
+	<clientscript>client_script.nut</clientscript>
+	<clientscript>client_dialog.nut</clientscript>
+	<clientscript>scoreboard.nut</clientscript>
+	
+	<!-- The resources the client will download and used by clientscripts -->
+	<clientresource>girl_logo.png</clientresource>
+	<clientresource>speed_background.png</clientresource>
+	<clientresource>speed_arrow.png</clientresource>
+	<clientresource>fuel_background.png</clientresource>
+	<clientresource>fuel_arrow.png</clientresource>
+	
+	<!-- The modules the server will load and run -->
+	<module>mysql.dll</module>
+
+	<!-- Toggles the Pay'n'Sprays on server -->
+	<!--paynspray>false</paynspray -->
+	
+	<!-- Toggles the Auto Aiming on server -->
+	<!-- autoaim>false</autoaim -->
+</settings>

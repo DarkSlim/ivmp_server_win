@@ -1,0 +1,860 @@
+[03:48:12] 
+[03:48:12] ====================================================================
+[03:48:12]  IV:MP 0.1 RC3 DEV Windows Server
+[03:48:12]  Copyright (C) 2009-2013 IV:MP Team
+[03:48:12]  Port: 9999
+[03:48:12]  HTTP Port: 9998
+[03:48:12]  Query Port: 10136
+[03:48:12]  Max Players: 32
+[03:48:12]  RemoteControl: deactivated
+[03:48:12] ====================================================================
+[03:48:12] 
+============ Loading Modules ===========
+
+[03:48:12] Loading module mysql.dll.
+[03:48:12] MySQL Module 1.0f by mabako loaded.
+[03:48:12] MySQL Module module loaded
+[03:48:12] 
+[03:48:12] 
+============ Loading Resources ===========
+
+[03:48:12] [Function] onScriptInit() called...
+[03:48:12] 
+=============================================================
+
+[03:48:12] Start Loading Objects...
+
+[03:48:12] 1. ModelHash: 0xC626EA54[id-970528172].
+[03:48:12]    Position: x1, y2, z3.
+[03:48:12]    Rotation: x4, y5, z6.
+
+[03:48:12] 2. ModelHash: 0xEC0430C4[id-335269692].
+[03:48:12]    Position: x1, y2, z3.
+[03:48:12]    Rotation: x4, y5, z6.
+
+[03:48:12] 3. ModelHash: 0x9CE86163[id-1662492317].
+[03:48:12]    Position: x1, y2, z3.
+[03:48:12]    Rotation: x4, y5, z6.
+
+[03:48:12] 4. ModelHash: 0xC626EA54[id-970528172].
+[03:48:12]    Position: x1, y2, z3.
+[03:48:12]    Rotation: x4, y5, z6.
+
+[03:48:12] 5. ModelHash: 0x9CE86163[id-1662492317].
+[03:48:12]    Position: x1, y2, z3.
+[03:48:12]    Rotation: x4, y5, z6.
+
+[03:48:12] 6. ModelHash: 0xEC0430C4[id-335269692].
+[03:48:12]    Position: x1, y2, z3.
+[03:48:12]    Rotation: x4, y5, z6.
+
+[03:48:12] Total Objects Loaded: 6.
+[03:48:12] 
+=============================================================
+
+[03:48:12] 
+=============================================================
+
+[03:48:12] Start Loading Vehicles...
+
+[03:48:12] [Function] onVehicleCreate(0) called...
+[03:48:12] 1. Name: Sultan RS[id90]. Owner: Jonathan_Rosewood.
+[03:48:12]    Health: 1000. Fuel: 100. Price: $120000.
+[03:48:12]    Position: x-439.316, y1178.38, z12.1805, dimension0.
+[03:48:12]    Rotation: x359.429, y3.39368, z89.5367.
+[03:48:12]    Colors: 0, 0, 99, 0.
+
+[03:48:12] [Function] onVehicleCreate(1) called...
+[03:48:12] 2. Name: Sultan RS[id90]. Owner: Jonathan_Rosewood.
+[03:48:12]    Health: 1000. Fuel: 92. Price: $120000.
+[03:48:12]    Position: x-428.628, y1156.93, z12.4035, dimension0.
+[03:48:12]    Rotation: x1.84296, y3.53821, z268.623.
+[03:48:12]    Colors: 0, 0, 99, 0.
+
+[03:48:12] [Function] onVehicleCreate(2) called...
+[03:48:12] 3. Name: Sanchez[id110]. Owner: Jonathan_Rosewood.
+[03:48:12]    Health: 1000. Fuel: 9962. Price: $120000.
+[03:48:12]    Position: x-428.286, y1179.32, z12.4839, dimension0.
+[03:48:12]    Rotation: x359.273, y359.875, z90.9553.
+[03:48:12]    Colors: 0, 0, 99, 0.
+
+[03:48:12] [Function] onVehicleCreate(3) called...
+[03:48:12] 4. Name: PCJ600[id109]. Owner: Jonathan_Rosewood.
+[03:48:12]    Health: 924. Fuel: 8992. Price: $120000.
+[03:48:12]    Position: x-424.774, y1179.14, z12.6746, dimension0.
+[03:48:12]    Rotation: x358.073, y0.34082, z91.0083.
+[03:48:12]    Colors: 0, 0, 99, 0.
+
+[03:48:12] Total Vehicles Loaded: 4.
+[03:48:12] 
+=============================================================
+
+[03:48:12] 
+=============================================================
+
+[03:48:12] Start Loading Businesses...
+
+[03:48:12] 1. Name: Burger Shot. Owner: Jonathan_Rosewood.
+[03:48:12]    Type: 2. Price: $450000.
+[03:48:12]    Checkpoint type: 3.
+[03:48:12]    Checkpoint position: x-429, y1195.5, z11.5.
+[03:48:12]    Checkpoint position: nx-429, ny1195.5, nz100.
+[03:48:12]    Blip name: Burger Shot. Blip model: id21.
+[03:48:12]    Blip position: x-429, y1195.5, z13.
+[03:48:12]    Actor name: Jessica_McKelly. Actor skin: id111.
+[03:48:12]    Actor position: x-427, y1195.5, z13, fa90.
+
+[03:48:12] Total Businesses Loaded: 1.
+[03:48:12] 
+=============================================================
+
+[03:48:12]  Unix Time: 1361317692
+[03:48:12]  Server Time: 3:48:12
+[03:48:12]  Server Date: 20/2/2013
+[03:48:12]  Day of the week: Wednesday
+[03:48:12]  Day of the year: 50
+
+[03:48:12] Squirrel 3.0 stable
+[03:48:12] 
+Script gamemode.nut sucessfully loaded.
+[03:48:12] Successfully loaded 9 resources (0 failed).
+[03:48:12] 
+====================================================================
+
+[03:49:12] GetDimension 0
+[03:49:12] GetDimension 0
+[03:49:12] GetDimension 0
+[03:49:12] GetDimension 0
+[03:49:20] [Connect] Authorizing connection from IP 127.0.0.1 (ID 0, Serial 00000000000000000000000000000000)...
+[03:49:20] [Connect] Authorization for 127.0.0.1:52712 (Jonathan_Rosewood) complete.
+[03:49:20] [Function] onPlayerChangeState(0, 0, 1) called by Jonathan_Rosewood
+[03:49:20] [Join] Jonathan_Rosewood (0) is joining the game.
+[03:49:20] AN ERROR HAS OCCURED [wrong number of parameters]
+[03:49:20] CALLSTACK
+[03:49:20] LOCALS
+[03:49:20] [Function] onPlayerJoin(0) called by Jonathan_Rosewood
+[03:49:20] [Join] Jonathan_Rosewood (0) has joined the game.
+[03:49:20] [Function] onPlayerChangeState(0, 1, 4) called by Jonathan_Rosewood
+[03:49:20] AN ERROR HAS OCCURED [the index '0' does not exist]
+[03:49:20] CALLSTACK
+[03:49:20] *FUNCTION [GetPlayerMoneyLegal()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1470]
+[03:49:20] *FUNCTION [CheckMoney()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1459]
+[03:49:20] *FUNCTION [TimerSecond()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1437]
+[03:49:20] LOCALS
+[03:49:20] [PlayerInfo] TABLE
+[03:49:20] [playerid] 0
+[03:49:20] [this] TABLE
+[03:49:20] [@ITERATOR@] 1
+[03:49:20] [player] "Jonathan_Rosewood"
+[03:49:20] [playerid] 0
+[03:49:20] [this] TABLE
+[03:49:20] [this] TABLE
+[03:49:21] [Function] onPlayerChangeState(0, 4, 2) called by Jonathan_Rosewood
+[03:49:21] [Spawn] Jonathan_Rosewood spawned.
+[03:49:21] [Function] onPlayerSpawn(0) called by Jonathan_Rosewood
+[03:49:21] AN ERROR HAS OCCURED [the index '0' does not exist]
+[03:49:21] CALLSTACK
+[03:49:21] *FUNCTION [onPlayerSpawn()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [276]
+[03:49:21] LOCALS
+[03:49:21] [PlayerInfo] TABLE
+[03:49:21] [playerid] 0
+[03:49:21] [this] TABLE
+[03:49:21] AN ERROR HAS OCCURED [the index '0' does not exist]
+[03:49:21] CALLSTACK
+[03:49:21] *FUNCTION [GetPlayerMoneyLegal()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1470]
+[03:49:21] *FUNCTION [CheckMoney()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1459]
+[03:49:21] *FUNCTION [TimerSecond()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1437]
+[03:49:21] LOCALS
+[03:49:21] [PlayerInfo] TABLE
+[03:49:21] [playerid] 0
+[03:49:21] [this] TABLE
+[03:49:21] [@ITERATOR@] 1
+[03:49:21] [player] "Jonathan_Rosewood"
+[03:49:21] [playerid] 0
+[03:49:21] [this] TABLE
+[03:49:21] [this] TABLE
+[03:49:22] AN ERROR HAS OCCURED [the index '0' does not exist]
+[03:49:22] CALLSTACK
+[03:49:22] *FUNCTION [GetPlayerMoneyLegal()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1470]
+[03:49:22] *FUNCTION [CheckMoney()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1459]
+[03:49:22] *FUNCTION [TimerSecond()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1437]
+[03:49:22] LOCALS
+[03:49:22] [PlayerInfo] TABLE
+[03:49:22] [playerid] 0
+[03:49:22] [this] TABLE
+[03:49:22] [@ITERATOR@] 1
+[03:49:22] [player] "Jonathan_Rosewood"
+[03:49:22] [playerid] 0
+[03:49:22] [this] TABLE
+[03:49:22] [this] TABLE
+[03:49:23] [Function] onPlayerChangeState(0, 2, 4) called by Jonathan_Rosewood
+[03:49:23] AN ERROR HAS OCCURED [the index '0' does not exist]
+[03:49:23] CALLSTACK
+[03:49:23] *FUNCTION [GetPlayerMoneyLegal()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1470]
+[03:49:23] *FUNCTION [CheckMoney()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1459]
+[03:49:23] *FUNCTION [TimerSecond()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1437]
+[03:49:23] LOCALS
+[03:49:23] [PlayerInfo] TABLE
+[03:49:23] [playerid] 0
+[03:49:23] [this] TABLE
+[03:49:23] [@ITERATOR@] 1
+[03:49:23] [player] "Jonathan_Rosewood"
+[03:49:23] [playerid] 0
+[03:49:23] [this] TABLE
+[03:49:23] [this] TABLE
+[03:49:24] AN ERROR HAS OCCURED [the index '0' does not exist]
+[03:49:24] CALLSTACK
+[03:49:24] *FUNCTION [GetPlayerMoneyLegal()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1470]
+[03:49:24] *FUNCTION [CheckMoney()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1459]
+[03:49:24] *FUNCTION [TimerSecond()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1437]
+[03:49:24] LOCALS
+[03:49:24] [PlayerInfo] TABLE
+[03:49:24] [playerid] 0
+[03:49:24] [this] TABLE
+[03:49:24] [@ITERATOR@] 1
+[03:49:24] [player] "Jonathan_Rosewood"
+[03:49:24] [playerid] 0
+[03:49:24] [this] TABLE
+[03:49:24] [this] TABLE
+[03:49:25] AN ERROR HAS OCCURED [the index '0' does not exist]
+[03:49:25] CALLSTACK
+[03:49:25] *FUNCTION [GetPlayerMoneyLegal()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1470]
+[03:49:25] *FUNCTION [CheckMoney()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1459]
+[03:49:25] *FUNCTION [TimerSecond()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1437]
+[03:49:25] LOCALS
+[03:49:25] [PlayerInfo] TABLE
+[03:49:25] [playerid] 0
+[03:49:25] [this] TABLE
+[03:49:25] [@ITERATOR@] 1
+[03:49:25] [player] "Jonathan_Rosewood"
+[03:49:25] [playerid] 0
+[03:49:25] [this] TABLE
+[03:49:25] [this] TABLE
+[03:49:26] [Function] onPlayerDisconnect(0, 0) called by Jonathan_Rosewood
+[03:49:26] AN ERROR HAS OCCURED [the index '0' does not exist]
+[03:49:26] CALLSTACK
+[03:49:26] *FUNCTION [SavePlayer()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1557]
+[03:49:26] *FUNCTION [onPlayerDisconnect()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [319]
+[03:49:26] LOCALS
+[03:49:26] [PlayerInfo] TABLE
+[03:49:26] [id] 0
+[03:49:26] [this] TABLE
+[03:49:26] [PlayerInfo] TABLE
+[03:49:26] [reason] 0
+[03:49:26] [playerid] 0
+[03:49:26] [this] TABLE
+[03:49:26] [Function] onPlayerChangeState(0, 4, 0) called by Jonathan_Rosewood
+[03:49:26] [Quit] Jonathan_Rosewood (0) left the server (Disconnected).
+[03:57:46] 
+[03:57:46] ====================================================================
+[03:57:46]  IV:MP 0.1 RC3 DEV Windows Server
+[03:57:46]  Copyright (C) 2009-2013 IV:MP Team
+[03:57:46]  Port: 9999
+[03:57:46]  HTTP Port: 9998
+[03:57:46]  Query Port: 10136
+[03:57:46]  Max Players: 32
+[03:57:46]  RemoteControl: deactivated
+[03:57:46] ====================================================================
+[03:57:46] 
+============ Loading Modules ===========
+
+[03:57:46] Loading module mysql.dll.
+[03:57:46] MySQL Module 1.0f by mabako loaded.
+[03:57:46] MySQL Module module loaded
+[03:57:46] 
+[03:57:46] 
+============ Loading Resources ===========
+
+[03:57:46] [Function] onScriptInit() called...
+[03:57:46] 
+=============================================================
+
+[03:57:46] Start Loading Objects...
+
+[03:57:46] 1. ModelHash: 0xC626EA54[id-970528172].
+[03:57:46]    Position: x1, y2, z3.
+[03:57:46]    Rotation: x4, y5, z6.
+
+[03:57:46] 2. ModelHash: 0xEC0430C4[id-335269692].
+[03:57:46]    Position: x1, y2, z3.
+[03:57:46]    Rotation: x4, y5, z6.
+
+[03:57:46] 3. ModelHash: 0x9CE86163[id-1662492317].
+[03:57:46]    Position: x1, y2, z3.
+[03:57:46]    Rotation: x4, y5, z6.
+
+[03:57:46] 4. ModelHash: 0xC626EA54[id-970528172].
+[03:57:46]    Position: x1, y2, z3.
+[03:57:46]    Rotation: x4, y5, z6.
+
+[03:57:46] 5. ModelHash: 0x9CE86163[id-1662492317].
+[03:57:46]    Position: x1, y2, z3.
+[03:57:46]    Rotation: x4, y5, z6.
+
+[03:57:46] 6. ModelHash: 0xEC0430C4[id-335269692].
+[03:57:46]    Position: x1, y2, z3.
+[03:57:46]    Rotation: x4, y5, z6.
+
+[03:57:46] Total Objects Loaded: 6.
+[03:57:46] 
+=============================================================
+
+[03:57:46] 
+=============================================================
+
+[03:57:46] Start Loading Vehicles...
+
+[03:57:46] [Function] onVehicleCreate(0) called...
+[03:57:46] 1. Name: Sultan RS[id90]. Owner: Jonathan_Rosewood.
+[03:57:46]    Health: 1000. Fuel: 100. Price: $120000.
+[03:57:46]    Position: x-439.316, y1178.38, z12.1805, dimension0.
+[03:57:46]    Rotation: x359.429, y3.39368, z89.5367.
+[03:57:46]    Colors: 0, 0, 99, 0.
+
+[03:57:46] [Function] onVehicleCreate(1) called...
+[03:57:46] 2. Name: Sultan RS[id90]. Owner: Jonathan_Rosewood.
+[03:57:46]    Health: 1000. Fuel: 92. Price: $120000.
+[03:57:46]    Position: x-428.628, y1156.93, z12.4035, dimension0.
+[03:57:46]    Rotation: x1.84296, y3.53821, z268.623.
+[03:57:46]    Colors: 0, 0, 99, 0.
+
+[03:57:46] [Function] onVehicleCreate(2) called...
+[03:57:46] 3. Name: Sanchez[id110]. Owner: Jonathan_Rosewood.
+[03:57:46]    Health: 1000. Fuel: 9962. Price: $120000.
+[03:57:46]    Position: x-428.286, y1179.32, z12.4839, dimension0.
+[03:57:46]    Rotation: x359.273, y359.875, z90.9553.
+[03:57:46]    Colors: 0, 0, 99, 0.
+
+[03:57:46] [Function] onVehicleCreate(3) called...
+[03:57:46] 4. Name: PCJ600[id109]. Owner: Jonathan_Rosewood.
+[03:57:46]    Health: 1000. Fuel: 8992. Price: $120000.
+[03:57:46]    Position: x-424.774, y1179.14, z12.6746, dimension0.
+[03:57:46]    Rotation: x358.073, y0.34082, z91.0083.
+[03:57:46]    Colors: 0, 0, 99, 0.
+
+[03:57:46] Total Vehicles Loaded: 4.
+[03:57:46] 
+=============================================================
+
+[03:57:46] 
+=============================================================
+
+[03:57:46] Start Loading Businesses...
+
+[03:57:46] 1. Name: Burger Shot. Owner: Jonathan_Rosewood.
+[03:57:46]    Type: 2. Price: $450000.
+[03:57:46]    Checkpoint type: 3.
+[03:57:46]    Checkpoint position: x-429, y1195.5, z11.5.
+[03:57:46]    Checkpoint position: nx-429, ny1195.5, nz100.
+[03:57:46]    Blip name: Burger Shot. Blip model: id21.
+[03:57:46]    Blip position: x-429, y1195.5, z13.
+[03:57:46]    Actor name: Jessica_McKelly. Actor skin: id111.
+[03:57:46]    Actor position: x-427, y1195.5, z13, fa90.
+
+[03:57:46] Total Businesses Loaded: 1.
+[03:57:46] 
+=============================================================
+
+[03:57:46]  Unix Time: 1361318266
+[03:57:46]  Server Time: 3:57:46
+[03:57:46]  Server Date: 20/2/2013
+[03:57:46]  Day of the week: Wednesday
+[03:57:46]  Day of the year: 50
+
+[03:57:46] Squirrel 3.0 stable
+[03:57:46] 
+Script gamemode.nut sucessfully loaded.
+[03:57:46] Successfully loaded 9 resources (0 failed).
+[03:57:46] 
+====================================================================
+
+[03:58:45] [Connect] Authorizing connection from IP 127.0.0.1 (ID 0, Serial 00000000000000000000000000000000)...
+[03:58:45] [Connect] Authorization for 127.0.0.1:50499 (Jonathan_Rosewood) complete.
+[03:58:45] [Function] onPlayerChangeState(0, 0, 1) called by Jonathan_Rosewood
+[03:58:45] [Join] Jonathan_Rosewood (0) is joining the game.
+[03:58:45] AN ERROR HAS OCCURED [wrong number of parameters]
+[03:58:45] CALLSTACK
+[03:58:45] LOCALS
+[03:58:46] [Function] onPlayerJoin(0) called by Jonathan_Rosewood
+[03:58:46] [Join] Jonathan_Rosewood (0) has joined the game.
+[03:58:46] [Function] onPlayerChangeState(0, 1, 4) called by Jonathan_Rosewood
+[03:58:46] AN ERROR HAS OCCURED [the index '0' does not exist]
+[03:58:46] CALLSTACK
+[03:58:46] *FUNCTION [PayDay()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1714]
+[03:58:46] *FUNCTION [TimerMinute()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1448]
+[03:58:46] LOCALS
+[03:58:46] [PlayerInfo] TABLE
+[03:58:46] [@ITERATOR@] 1
+[03:58:46] [player] "Jonathan_Rosewood"
+[03:58:46] [playerid] 0
+[03:58:46] [this] TABLE
+[03:58:46] [date_info] TABLE
+[03:58:46] [this] TABLE
+[03:58:47] [Function] onPlayerChangeState(0, 4, 2) called by Jonathan_Rosewood
+[03:58:47] [Spawn] Jonathan_Rosewood spawned.
+[03:58:47] [Function] onPlayerSpawn(0) called by Jonathan_Rosewood
+[03:58:47] AN ERROR HAS OCCURED [the index '0' does not exist]
+[03:58:47] CALLSTACK
+[03:58:47] *FUNCTION [onPlayerSpawn()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [276]
+[03:58:47] LOCALS
+[03:58:47] [PlayerInfo] TABLE
+[03:58:47] [playerid] 0
+[03:58:47] [this] TABLE
+[03:58:48] [Function] onPlayerChangeState(0, 2, 4) called by Jonathan_Rosewood
+[03:58:52] [Function] onPlayerDisconnect(0, 0) called by Jonathan_Rosewood
+[03:58:52] AN ERROR HAS OCCURED [the index '0' does not exist]
+[03:58:52] CALLSTACK
+[03:58:52] *FUNCTION [SavePlayer()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1557]
+[03:58:52] *FUNCTION [onPlayerDisconnect()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [319]
+[03:58:52] LOCALS
+[03:58:52] [PlayerInfo] TABLE
+[03:58:52] [id] 0
+[03:58:52] [this] TABLE
+[03:58:52] [PlayerInfo] TABLE
+[03:58:52] [reason] 0
+[03:58:52] [playerid] 0
+[03:58:52] [this] TABLE
+[03:58:52] [Function] onPlayerChangeState(0, 4, 0) called by Jonathan_Rosewood
+[03:58:52] [Quit] Jonathan_Rosewood (0) left the server (Disconnected).
+[03:59:46] GetDimension 0
+[03:59:46] GetDimension 0
+[03:59:46] GetDimension 0
+[03:59:46] GetDimension 0
+[13:15:17] 
+[13:15:17] ====================================================================
+[13:15:17]  IV:MP 0.1 RC3 DEV Windows Server
+[13:15:17]  Copyright (C) 2009-2013 IV:MP Team
+[13:15:17]  Port: 9999
+[13:15:17]  HTTP Port: 9998
+[13:15:17]  Query Port: 10136
+[13:15:17]  Max Players: 32
+[13:15:17]  RemoteControl: deactivated
+[13:15:17] ====================================================================
+[13:15:17] 
+============ Loading Modules ===========
+
+[13:15:17] Loading module mysql.dll.
+[13:15:17] MySQL Module 1.0f by mabako loaded.
+[13:15:17] MySQL Module module loaded
+[13:15:17] 
+[13:15:17] 
+============ Loading Resources ===========
+
+[13:15:17] [Function] onScriptInit() called...
+[13:15:17] 
+=============================================================
+
+[13:15:17] Start Loading Objects...
+
+[13:15:17] 1. ModelHash: 0xC626EA54[id-970528172].
+[13:15:17]    Position: x1, y2, z3.
+[13:15:17]    Rotation: x4, y5, z6.
+
+[13:15:17] 2. ModelHash: 0xEC0430C4[id-335269692].
+[13:15:17]    Position: x1, y2, z3.
+[13:15:17]    Rotation: x4, y5, z6.
+
+[13:15:17] 3. ModelHash: 0x9CE86163[id-1662492317].
+[13:15:17]    Position: x1, y2, z3.
+[13:15:17]    Rotation: x4, y5, z6.
+
+[13:15:17] 4. ModelHash: 0xC626EA54[id-970528172].
+[13:15:17]    Position: x1, y2, z3.
+[13:15:17]    Rotation: x4, y5, z6.
+
+[13:15:17] 5. ModelHash: 0x9CE86163[id-1662492317].
+[13:15:17]    Position: x1, y2, z3.
+[13:15:17]    Rotation: x4, y5, z6.
+
+[13:15:17] 6. ModelHash: 0xEC0430C4[id-335269692].
+[13:15:17]    Position: x1, y2, z3.
+[13:15:17]    Rotation: x4, y5, z6.
+
+[13:15:17] Total Objects Loaded: 6.
+[13:15:17] 
+=============================================================
+
+[13:15:17] 
+=============================================================
+
+[13:15:17] Start Loading Vehicles...
+
+[13:15:17] [Function] onVehicleCreate(0) called...
+[13:15:17] 1. Name: Sultan RS[id90]. Owner: Jonathan_Rosewood.
+[13:15:17]    Health: 1000. Fuel: 100. Price: $120000.
+[13:15:17]    Position: x-439.316, y1178.38, z12.1805, dimension0.
+[13:15:17]    Rotation: x359.429, y3.39368, z89.5367.
+[13:15:17]    Colors: 0, 0, 99, 0.
+
+[13:15:17] [Function] onVehicleCreate(1) called...
+[13:15:17] 2. Name: Sultan RS[id90]. Owner: Jonathan_Rosewood.
+[13:15:17]    Health: 1000. Fuel: 92. Price: $120000.
+[13:15:17]    Position: x-428.628, y1156.93, z12.4035, dimension0.
+[13:15:17]    Rotation: x1.84296, y3.53821, z268.623.
+[13:15:17]    Colors: 0, 0, 99, 0.
+
+[13:15:17] [Function] onVehicleCreate(2) called...
+[13:15:17] 3. Name: Sanchez[id110]. Owner: Jonathan_Rosewood.
+[13:15:17]    Health: 1000. Fuel: 9962. Price: $120000.
+[13:15:17]    Position: x-428.286, y1179.32, z12.4839, dimension0.
+[13:15:17]    Rotation: x359.273, y359.875, z90.9553.
+[13:15:17]    Colors: 0, 0, 99, 0.
+
+[13:15:17] [Function] onVehicleCreate(3) called...
+[13:15:17] 4. Name: PCJ600[id109]. Owner: Jonathan_Rosewood.
+[13:15:17]    Health: 1000. Fuel: 8992. Price: $120000.
+[13:15:17]    Position: x-424.774, y1179.14, z12.6746, dimension0.
+[13:15:17]    Rotation: x358.073, y0.34082, z91.0083.
+[13:15:17]    Colors: 0, 0, 99, 0.
+
+[13:15:17] Total Vehicles Loaded: 4.
+[13:15:17] 
+=============================================================
+
+[13:15:17] 
+=============================================================
+
+[13:15:17] Start Loading Businesses...
+
+[13:15:17] 1. Name: Burger Shot. Owner: Jonathan_Rosewood.
+[13:15:17]    Type: 2. Price: $450000.
+[13:15:17]    Checkpoint type: 3.
+[13:15:17]    Checkpoint position: x-429, y1195.5, z11.5.
+[13:15:17]    Checkpoint position: nx-429, ny1195.5, nz100.
+[13:15:17]    Blip name: Burger Shot. Blip model: id21.
+[13:15:17]    Blip position: x-429, y1195.5, z13.
+[13:15:17]    Actor name: Jessica_McKelly. Actor skin: id111.
+[13:15:17]    Actor position: x-427, y1195.5, z13, fa90.
+
+[13:15:17] Total Businesses Loaded: 1.
+[13:15:17] 
+=============================================================
+
+[13:15:17]  Unix Time: 1361351717
+[13:15:17]  Server Time: 13:15:17
+[13:15:17]  Server Date: 20/2/2013
+[13:15:17]  Day of the week: Wednesday
+[13:15:17]  Day of the year: 50
+
+[13:15:17] Squirrel 3.0 stable
+[13:15:17] 
+Script gamemode.nut sucessfully loaded.
+[13:15:17] Successfully loaded 9 resources (0 failed).
+[13:15:17] 
+====================================================================
+
+[13:16:01] [Connect] Authorizing connection from IP 127.0.0.1 (ID 0, Serial 00000000000000000000000000000000)...
+[13:16:01] [Connect] Authorization for 127.0.0.1:58647 (Jonathan_Rosewood) complete.
+[13:16:01] [Function] onPlayerChangeState(0, 0, 1) called by Jonathan_Rosewood
+[13:16:01] [Join] Jonathan_Rosewood (0) is joining the game.
+[13:16:01] AN ERROR HAS OCCURED [wrong number of parameters]
+[13:16:01] CALLSTACK
+[13:16:01] LOCALS
+[13:16:02] [Function] onPlayerChangeState(0, 1, 4) called by Jonathan_Rosewood
+[13:16:02] [Function] onPlayerJoin(0) called by Jonathan_Rosewood
+[13:16:02] [Join] Jonathan_Rosewood (0) has joined the game.
+[13:16:03] [Function] onPlayerChangeState(0, 4, 2) called by Jonathan_Rosewood
+[13:16:03] [Spawn] Jonathan_Rosewood spawned.
+[13:16:03] [Function] onPlayerSpawn(0) called by Jonathan_Rosewood
+[13:16:03] AN ERROR HAS OCCURED [the index '0' does not exist]
+[13:16:03] CALLSTACK
+[13:16:03] *FUNCTION [onPlayerSpawn()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [276]
+[13:16:03] LOCALS
+[13:16:03] [PlayerInfo] TABLE
+[13:16:03] [playerid] 0
+[13:16:03] [this] TABLE
+[13:16:06] [Function] onPlayerChangeState(0, 2, 4) called by Jonathan_Rosewood
+[13:16:17] AN ERROR HAS OCCURED [the index '0' does not exist]
+[13:16:17] CALLSTACK
+[13:16:17] *FUNCTION [PayDay()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1714]
+[13:16:17] *FUNCTION [TimerMinute()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1448]
+[13:16:17] LOCALS
+[13:16:17] [PlayerInfo] TABLE
+[13:16:17] [@ITERATOR@] 1
+[13:16:17] [player] "Jonathan_Rosewood"
+[13:16:17] [playerid] 0
+[13:16:17] [this] TABLE
+[13:16:17] [date_info] TABLE
+[13:16:17] [this] TABLE
+[13:17:17] AN ERROR HAS OCCURED [the index '0' does not exist]
+[13:17:17] CALLSTACK
+[13:17:17] *FUNCTION [PayDay()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1714]
+[13:17:17] *FUNCTION [TimerMinute()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1448]
+[13:17:17] LOCALS
+[13:17:17] [PlayerInfo] TABLE
+[13:17:17] [@ITERATOR@] 1
+[13:17:17] [player] "Jonathan_Rosewood"
+[13:17:17] [playerid] 0
+[13:17:17] [this] TABLE
+[13:17:17] [date_info] TABLE
+[13:17:17] [this] TABLE
+[13:17:17] [Function] onPlayerCommand(0, /veh) called by Jonathan_Rosewood
+[13:17:17] AN ERROR HAS OCCURED [the index '0' does not exist]
+[13:17:17] CALLSTACK
+[13:17:17] *FUNCTION [onPlayerCommand()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [388]
+[13:17:17] LOCALS
+[13:17:17] [PlayerInfo] TABLE
+[13:17:17] [date_info] TABLE
+[13:17:17] [BusinessInfo] TABLE
+[13:17:17] [total_businesses] 0
+[13:17:17] [VehicleInfo] TABLE
+[13:17:17] [WeaponNames] ARRAY
+[13:17:17] [cmd] ARRAY
+[13:17:17] [command] "/veh"
+[13:17:17] [playerid] 0
+[13:17:17] [this] TABLE
+[13:17:19] [Function] onPlayerText(0, f) called by Jonathan_Rosewood
+[13:17:19] AN ERROR HAS OCCURED [the index '0' does not exist]
+[13:17:19] CALLSTACK
+[13:17:19] *FUNCTION [onPlayerText()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [328]
+[13:17:19] LOCALS
+[13:17:19] [PlayerInfo] TABLE
+[13:17:19] [text] "f"
+[13:17:19] [playerid] 0
+[13:17:19] [this] TABLE
+[13:17:19] [Chat] Jonathan_Rosewood: f
+[13:17:52] [Function] onPlayerDisconnect(0, 0) called by Jonathan_Rosewood
+[13:17:52] AN ERROR HAS OCCURED [the index '0' does not exist]
+[13:17:52] CALLSTACK
+[13:17:52] *FUNCTION [SavePlayer()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1557]
+[13:17:52] *FUNCTION [onPlayerDisconnect()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [319]
+[13:17:52] LOCALS
+[13:17:52] [PlayerInfo] TABLE
+[13:17:52] [id] 0
+[13:17:52] [this] TABLE
+[13:17:52] [PlayerInfo] TABLE
+[13:17:52] [reason] 0
+[13:17:52] [playerid] 0
+[13:17:52] [this] TABLE
+[13:17:52] [Function] onPlayerChangeState(0, 4, 0) called by Jonathan_Rosewood
+[13:17:52] [Quit] Jonathan_Rosewood (0) left the server (Disconnected).
+[13:18:17] GetDimension 0
+[13:18:17] GetDimension 0
+[13:18:17] GetDimension 0
+[13:18:17] GetDimension 0
+[13:19:17] GetDimension 0
+[13:19:17] GetDimension 0
+[13:19:17] GetDimension 0
+[13:19:17] GetDimension 0
+[13:20:17] GetDimension 0
+[13:20:17] GetDimension 0
+[13:20:17] GetDimension 0
+[13:20:17] GetDimension 0
+[13:21:17] GetDimension 0
+[13:21:17] GetDimension 0
+[13:21:17] GetDimension 0
+[13:21:17] GetDimension 0
+[13:22:17] GetDimension 0
+[13:22:17] GetDimension 0
+[13:22:17] GetDimension 0
+[13:22:17] GetDimension 0
+[13:23:17] GetDimension 0
+[13:23:17] GetDimension 0
+[13:23:17] GetDimension 0
+[13:23:17] GetDimension 0
+[13:24:17] GetDimension 0
+[13:24:17] GetDimension 0
+[13:24:17] GetDimension 0
+[13:24:17] GetDimension 0
+[13:25:17] GetDimension 0
+[13:25:17] GetDimension 0
+[13:25:17] GetDimension 0
+[13:25:17] GetDimension 0
+[13:26:17] GetDimension 0
+[13:26:17] GetDimension 0
+[13:26:17] GetDimension 0
+[13:26:17] GetDimension 0
+[13:27:17] GetDimension 0
+[13:27:17] GetDimension 0
+[13:27:17] GetDimension 0
+[13:27:17] GetDimension 0
+[13:28:17] GetDimension 0
+[13:28:17] GetDimension 0
+[13:28:17] GetDimension 0
+[13:28:17] GetDimension 0
+[13:43:19] 
+[13:43:19] ====================================================================
+[13:43:19]  IV:MP 0.1 RC3 DEV Windows Server
+[13:43:19]  Copyright (C) 2009-2013 IV:MP Team
+[13:43:19]  Port: 9999
+[13:43:19]  HTTP Port: 9998
+[13:43:19]  Query Port: 10136
+[13:43:19]  Max Players: 32
+[13:43:19] ====================================================================
+[13:43:19] 
+[13:43:19] ============ Loading Modules ===========
+[13:43:19] Loading module mysql.dll.
+[13:43:19] MySQL Module 1.0f by mabako loaded.
+[13:43:19] MySQL Module module loaded
+[13:43:19] 
+[13:43:19] 
+[13:43:19] ============ Loading Resources ===========
+[13:43:19] [Function] onScriptInit() called...
+[13:43:19] 
+=============================================================
+
+[13:43:19] Start Loading Objects...
+
+[13:43:19] 1. ModelHash: 0xC626EA54[id-970528172].
+[13:43:19]    Position: x1, y2, z3.
+[13:43:19]    Rotation: x4, y5, z6.
+
+[13:43:19] 2. ModelHash: 0xEC0430C4[id-335269692].
+[13:43:19]    Position: x1, y2, z3.
+[13:43:19]    Rotation: x4, y5, z6.
+
+[13:43:19] 3. ModelHash: 0x9CE86163[id-1662492317].
+[13:43:19]    Position: x1, y2, z3.
+[13:43:19]    Rotation: x4, y5, z6.
+
+[13:43:19] 4. ModelHash: 0xC626EA54[id-970528172].
+[13:43:19]    Position: x1, y2, z3.
+[13:43:19]    Rotation: x4, y5, z6.
+
+[13:43:19] 5. ModelHash: 0x9CE86163[id-1662492317].
+[13:43:19]    Position: x1, y2, z3.
+[13:43:19]    Rotation: x4, y5, z6.
+
+[13:43:19] 6. ModelHash: 0xEC0430C4[id-335269692].
+[13:43:19]    Position: x1, y2, z3.
+[13:43:19]    Rotation: x4, y5, z6.
+
+[13:43:19] Total Objects Loaded: 6.
+[13:43:19] 
+=============================================================
+
+[13:43:19] 
+=============================================================
+
+[13:43:19] Start Loading Vehicles...
+
+[13:43:19] [Function] onVehicleCreate(0) called...
+[13:43:19] 1. Name: Sultan RS[id90]. Owner: Jonathan_Rosewood.
+[13:43:19]    Health: 1000. Fuel: 100. Price: $120000.
+[13:43:19]    Position: x-439.316, y1178.38, z12.1805, dimension0.
+[13:43:19]    Rotation: x359.429, y3.39368, z89.5367.
+[13:43:19]    Colors: 0, 0, 99, 0.
+
+[13:43:19] [Function] onVehicleCreate(1) called...
+[13:43:19] 2. Name: Sultan RS[id90]. Owner: Jonathan_Rosewood.
+[13:43:19]    Health: 1000. Fuel: 92. Price: $120000.
+[13:43:19]    Position: x-428.628, y1156.93, z12.4035, dimension0.
+[13:43:19]    Rotation: x1.84296, y3.53821, z268.623.
+[13:43:19]    Colors: 0, 0, 99, 0.
+
+[13:43:19] [Function] onVehicleCreate(2) called...
+[13:43:19] 3. Name: Sanchez[id110]. Owner: Jonathan_Rosewood.
+[13:43:19]    Health: 1000. Fuel: 9962. Price: $120000.
+[13:43:19]    Position: x-428.286, y1179.32, z12.4839, dimension0.
+[13:43:19]    Rotation: x359.273, y359.875, z90.9553.
+[13:43:19]    Colors: 0, 0, 99, 0.
+
+[13:43:19] [Function] onVehicleCreate(3) called...
+[13:43:19] 4. Name: PCJ600[id109]. Owner: Jonathan_Rosewood.
+[13:43:19]    Health: 1000. Fuel: 8992. Price: $120000.
+[13:43:19]    Position: x-424.774, y1179.14, z12.6746, dimension0.
+[13:43:19]    Rotation: x358.073, y0.34082, z91.0083.
+[13:43:19]    Colors: 0, 0, 99, 0.
+
+[13:43:19] Total Vehicles Loaded: 4.
+[13:43:19] 
+=============================================================
+
+[13:43:19] 
+=============================================================
+
+[13:43:19] Start Loading Businesses...
+
+[13:43:19] 1. Name: Burger Shot. Owner: Jonathan_Rosewood.
+[13:43:19]    Type: 2. Price: $450000.
+[13:43:19]    Checkpoint type: 3.
+[13:43:19]    Checkpoint position: x-429, y1195.5, z11.5.
+[13:43:19]    Checkpoint position: nx-429, ny1195.5, nz100.
+[13:43:19]    Blip name: Burger Shot. Blip model: id21.
+[13:43:19]    Blip position: x-429, y1195.5, z13.
+[13:43:19]    Actor name: Jessica_McKelly. Actor skin: id111.
+[13:43:19]    Actor position: x-427, y1195.5, z13, fa90.
+
+[13:43:19] Total Businesses Loaded: 1.
+[13:43:19] 
+=============================================================
+
+[13:43:19]  Unix Time: 1361353399
+[13:43:19]  Server Time: 13:43:19
+[13:43:19]  Server Date: 20/2/2013
+[13:43:19]  Day of the week: Wednesday
+[13:43:19]  Day of the year: 50
+
+[13:43:19] Squirrel 3.0 stable
+[13:43:19] 
+Script gamemode.nut sucessfully loaded.
+[13:43:19] Successfully loaded 9 resources (0 failed).
+[13:43:19] 
+[13:43:19] ====================================================================
+[13:43:19] 
+[13:44:19] [Connect] Authorizing connection from IP 127.0.0.1 (ID 0, Serial 00000000000000000000000000000000)...
+[13:44:19] [Connect] Authorization for 127.0.0.1:61251 (Jonathan_Rosewood) complete.
+[13:44:19] [Function] onPlayerChangeState(0, 0, 1) called by Jonathan_Rosewood
+[13:44:19] [Join] Jonathan_Rosewood (0) is joining the game.
+[13:44:19] AN ERROR HAS OCCURED [wrong number of parameters]
+[13:44:19] CALLSTACK
+[13:44:19] LOCALS
+[13:44:19] AN ERROR HAS OCCURED [the index '0' does not exist]
+[13:44:19] CALLSTACK
+[13:44:19] *FUNCTION [PayDay()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1714]
+[13:44:19] *FUNCTION [TimerMinute()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1448]
+[13:44:19] LOCALS
+[13:44:19] [PlayerInfo] TABLE
+[13:44:19] [@ITERATOR@] 1
+[13:44:19] [player] "Jonathan_Rosewood"
+[13:44:19] [playerid] 0
+[13:44:19] [this] TABLE
+[13:44:19] [date_info] TABLE
+[13:44:19] [this] TABLE
+[13:44:19] [Function] onPlayerJoin(0) called by Jonathan_Rosewood
+[13:44:19] [Join] Jonathan_Rosewood (0) has joined the game.
+[13:44:19] [Function] onPlayerChangeState(0, 1, 4) called by Jonathan_Rosewood
+[13:44:20] [Function] onPlayerChangeState(0, 4, 2) called by Jonathan_Rosewood
+[13:44:20] [Spawn] Jonathan_Rosewood spawned.
+[13:44:20] [Function] onPlayerSpawn(0) called by Jonathan_Rosewood
+[13:44:20] AN ERROR HAS OCCURED [the index '0' does not exist]
+[13:44:20] CALLSTACK
+[13:44:20] *FUNCTION [onPlayerSpawn()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [276]
+[13:44:20] LOCALS
+[13:44:20] [PlayerInfo] TABLE
+[13:44:20] [playerid] 0
+[13:44:20] [this] TABLE
+[13:44:22] [Function] onPlayerChangeState(0, 2, 4) called by Jonathan_Rosewood
+[13:44:31] [Function] onPlayerText(0, à) called by Jonathan_Rosewood
+[13:44:31] AN ERROR HAS OCCURED [the index '0' does not exist]
+[13:44:31] CALLSTACK
+[13:44:31] *FUNCTION [onPlayerText()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [328]
+[13:44:31] LOCALS
+[13:44:31] [PlayerInfo] TABLE
+[13:44:31] [text] "à"
+[13:44:31] [playerid] 0
+[13:44:31] [this] TABLE
+[13:44:31] [Chat] Jonathan_Rosewood: à
+[13:44:33] [Function] onPlayerDisconnect(0, 0) called by Jonathan_Rosewood
+[13:44:33] AN ERROR HAS OCCURED [the index '0' does not exist]
+[13:44:33] CALLSTACK
+[13:44:33] *FUNCTION [SavePlayer()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [1557]
+[13:44:33] *FUNCTION [onPlayerDisconnect()] C:\Dropbox\iv-mp development\ivmp_server_win\scripts/gamemode.nut line [319]
+[13:44:33] LOCALS
+[13:44:33] [PlayerInfo] TABLE
+[13:44:33] [id] 0
+[13:44:33] [this] TABLE
+[13:44:33] [PlayerInfo] TABLE
+[13:44:33] [reason] 0
+[13:44:33] [playerid] 0
+[13:44:33] [this] TABLE
+[13:44:33] [Function] onPlayerChangeState(0, 4, 0) called by Jonathan_Rosewood
+[13:44:33] [Quit] Jonathan_Rosewood (0) left the server (Disconnected).
+[13:44:49] [Function] onScriptExit() called...
+[13:44:49] GetDimension 0
+[13:44:49] GetDimension 0
+[13:44:49] GetDimension 0
+[13:44:49] GetDimension 0
+[13:44:49] Squirrel 3.0 stable
+[13:44:49] Script gamemode.nut sucessfully unloaded.
+[13:44:49]  ===== IV:MP Server shutting down. ===== 
