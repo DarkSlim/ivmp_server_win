@@ -1,3 +1,15 @@
+/**
+ * mysql.nut
+ *
+ * Класс MySQL
+ * @author mabako
+ * @editor Jonathan_Rosewood <jonathan-rosewood@yandex.ru>
+ *
+ * Description:
+ * - File modifed for gamemode
+ *
+ */
+
 class mysql
 {
 	handler = false;

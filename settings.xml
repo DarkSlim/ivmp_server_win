@@ -12,7 +12,7 @@
 	<maxplayers>48</maxplayers>
 
 	<!-- Maximum number of vehicles the server will support (Max 65534) -->
-	<maxvehicles>400</maxvehicles>
+	<maxvehicles>1000</maxvehicles>
 
 	<!-- Password clients will have to enter to connect -->
 	<!-- password>debug_password</password -->
@@ -21,7 +21,7 @@
 	<query>true</query>
 
 	<!-- Add the server to the master list -->
-	<listed>false</listed>
+	<listed>true</listed>
 
 	<!-- The hostname players will see -->
 	<hostname>Russian Role Play [v0.1 beta]</hostname>
