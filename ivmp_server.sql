@@ -101,7 +101,7 @@ CREATE TABLE IF NOT EXISTS `characters` (
 --
 
 INSERT INTO `characters` (`id`, `nickname`, `password`, `email`, `reg_ip`, `last_ip`, `admin_level`, `faction`, `played_minutes`, `played_hours`, `phone`, `sex`, `age`, `skin`, `cash`, `bank`, `pos_x`, `pos_y`, `pos_z`, `pos_fa`, `pos_dimension`, `vehicle_key`, `business_key`, `gun`, `ammo`) VALUES
-(1, 'Jonathan_Rosewood', '9194975', 'no email', '127.0.0.1', '127.0.0.1', 10, 0, 22, 2, 100001, 0, 0, 53, 0, 0, -426.341, 1194.51, 13.0525, 3.0669, 0, 0, 0, 0, 0);
+(1, 'Jonathan_Rosewood', 'password', 'no email', '127.0.0.1', '127.0.0.1', 10, 0, 22, 2, 100001, 0, 0, 53, 0, 0, -426.341, 1194.51, 13.0525, 3.0669, 0, 0, 0, 0, 0);
 
 -- --------------------------------------------------------
 
