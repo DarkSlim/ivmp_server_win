@@ -1441,7 +1441,7 @@ function TimerSecond() {
 // =================================================================================================================================
 
 function TimerMinute() {
-	log("[Function] TimerMinute() called...");
+//	log("[Function] TimerMinute() called...");
 	date_info = date();
 	setTime(date_info["hour"], date_info["min"]);
 	setDayOfWeek(date_info["wday"]);
